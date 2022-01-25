@@ -1,9 +1,12 @@
-Drafting a science fair judging app.
+# Science Fair Judge
 
-Judges cast votes for projects.
-Each vote pertains to a particular aspect of project.  
-    rating with comments.
+Drafting a science fair judging app
 
-Votes have foreign keys for project, judge
+Judges cast votes for projects. Each vote pertains to a particular 
+aspect of project, rate with comments. Votes have foreign keys for 
+project, judge
 
-Classes: Judge, Project, Vote
+## Classes
++ Judge
++ Project 
++ Vote
